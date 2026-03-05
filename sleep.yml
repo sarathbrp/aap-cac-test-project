@@ -1,0 +1,8 @@
+---
+- name: Sleep
+  hosts: localhost
+  gather_facts: false
+  tasks:
+    - name: Sleep for 5 seconds
+      pause:
+        seconds: 5

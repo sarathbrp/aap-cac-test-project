@@ -1,0 +1,8 @@
+---
+- name: Hello World
+  hosts: localhost
+  gather_facts: false
+  tasks:
+    - name: Say hello
+      debug:
+        msg: "Hello from CaC test project"

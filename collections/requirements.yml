@@ -1,10 +1,10 @@
 ---
 collections:
   - name: ansible.utils
-    source: http://aap-cac-repro-hub-content-svc.aap-26.svc.cluster.local:24816/api/galaxy/content/community/
+    source: http://aap-cac-repro-hub-web-svc.aap-26.svc.cluster.local:24880/api/galaxy/content/community/
   - name: ansible.netcommon
-    source: http://aap-cac-repro-hub-content-svc.aap-26.svc.cluster.local:24816/api/galaxy/content/community/
+    source: http://aap-cac-repro-hub-web-svc.aap-26.svc.cluster.local:24880/api/galaxy/content/community/
   - name: community.crypto
-    source: http://aap-cac-repro-hub-content-svc.aap-26.svc.cluster.local:24816/api/galaxy/content/community/
+    source: http://aap-cac-repro-hub-web-svc.aap-26.svc.cluster.local:24880/api/galaxy/content/community/
   - name: ansible.posix
-    source: http://aap-cac-repro-hub-content-svc.aap-26.svc.cluster.local:24816/api/galaxy/content/community/
+    source: http://aap-cac-repro-hub-web-svc.aap-26.svc.cluster.local:24880/api/galaxy/content/community/
